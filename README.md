@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on [Myfuse.in](https://github.com/AshuHack0/MyFuse)
 
-- 🌱 I’m currently learning **React Native and Larvel**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Web Dev**
-
-- 🤝 I’m looking for help with **Shop More Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshuHack0?tab=repositories](https://github.com/AshuHack0?tab=repositories)
 
